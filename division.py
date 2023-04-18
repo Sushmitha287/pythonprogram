@@ -1,3 +1,3 @@
 a=int(input("enter a number"))
 b=int(input("enter a number"))
-print(x/y)
+print(a/b)
